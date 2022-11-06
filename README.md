@@ -1,3 +1,3 @@
-<h1>Hi, 👋 I'm Ieuan</h1>
+<h1>Hi, I'm Ieuan</h1>
 
-<p>Welcome to my github! Here you will find projects that I am working on mostly using web technologies. Currently looking into the Rust Language</p>
+<p>I enjoy making things! Have a look around at some of the random projects I've worked on and made!</p>
